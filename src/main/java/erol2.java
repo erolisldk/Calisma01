@@ -1,0 +1,2 @@
+public class erol2 {
+}
